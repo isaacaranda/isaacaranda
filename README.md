@@ -1,5 +1,5 @@
-# 💫 About Me:
-¡Hola! Soy Isaac Aranda Maldonado, un apasionado programador de 31 años de Chile, siempre con muchas ganas de sumar y aprender en el mundo de la tecnología. Con varios años de experiencia en el desarrollo de software, he trabajado en diversos proyectos que abarcan desde aplicaciones web hasta soluciones de software a medida.<br><br>Intereses y Especialización<br>Mi principal interés radica en el desarrollo de soluciones innovadoras que hagan una diferencia real. Me especializo en la arquitectura de software escalable y la optimización del rendimiento. Además, siempre estoy explorando nuevas tecnologías y técnicas para mantenerme a la vanguardia en el campo del desarrollo de software.
+# 💫 Sobre mi:
+¡Hola! Soy Isaac Aranda Maldonado, un apasionado programador de 31 años de Chile, siempre con muchas ganas de sumar y aprender en el mundo de la tecnología. Con varios años de experiencia en el desarrollo de software, he trabajado en diversos proyectos que abarcan desde aplicaciones web hasta soluciones de software a medida.<br><br>Mi principal interés radica en el desarrollo de soluciones innovadoras que hagan una diferencia real. Me especializo en la arquitectura de software escalable y la optimización del rendimiento. Además, siempre estoy explorando nuevas tecnologías y técnicas para mantenerme a la vanguardia en el campo del desarrollo de software.
 
 
 ## 🌐 Socials:
